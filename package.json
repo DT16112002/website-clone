@@ -1,11 +1,14 @@
 {
-  "name": "harsh",
+  "name": "website-clone",
+  
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
     "dev" : "nodemon app.js"
+    
+
   },
   "keywords": [],
   "author": "",
